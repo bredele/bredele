@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Claude Contributions so far](claude-contributions.png)
+![Claude Contributions so far](claude-contributions-jul-6.png)
